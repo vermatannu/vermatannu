@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vermatannu
+- 👋 Hi, I’m Tannu Verma
 - 👀 I’m interested in Web Development, Machine Learning, and Open Source Projects
 - 🌱 I’m currently learning Full Stack Web Development using MERN Stack
 - 💞️ I’m looking to collaborate on Web Development and Machine Learning Projects

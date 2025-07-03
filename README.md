@@ -1,7 +1,7 @@
-hope this message finds you well.
+
 My name is Tannu Verma, and I am a passionate Full Stack Developer with 1.3+ years of experience building scalable, production-ready systems using JavaScript and its ecosystem.
 
-I recently came across the Software Developer position at Appzime Technologies on LinkedIn, and I’m excited to express my interest in this opportunity. I’ve attached my resume for your review
+
 
 
 💻 Languages: - JavaScript, TypeScript

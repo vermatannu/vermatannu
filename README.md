@@ -1,13 +1,25 @@
-- 👋 Hi, I’m Tannu Verma
-- 👀 I’m interested in Web Development, Machine Learning, and Open Source Projects
-- 🌱 I’m currently learning Full Stack Web Development using MERN Stack
-- 💞️ I’m looking to collaborate on Web Development and Machine Learning Projects
-- 📫 How to reach me: [Email](tannuv145@gmail.com)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love exploring new technologies and building cool projects in my free time!
+hope this message finds you well.
+My name is Tannu Verma, and I am a passionate Full Stack Developer with 1.3+ years of experience building scalable, production-ready systems using JavaScript and its ecosystem.
+
+I recently came across the Software Developer position at Appzime Technologies on LinkedIn, and I’m excited to express my interest in this opportunity. I’ve attached my resume for your review
 
 
-<!---
-vermatannu/vermatannu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Languages: - JavaScript, TypeScript
+
+🛠️ Technologies: NodeJS, ExpressJS, ReactJS,  Cypress
+
+🗄️ Databases: PostgreSQL, MongoDB, MySQL
+
+☁️ Cloud & DevOps: GitHub, Git, GitLab
+
+📂 Portfolio:
+ 👉https://portfolio-craft.netlify.app/portfolio/tannu
+🐙 GitHub:
+ 👉https://github.com/vermatannu
+
+I am available for immediate joining and enthusiastic about the opportunity to contribute to your team.
+Looking forward to the possibility of working together.  
+
+Regards, 
+Tannu Verma
+M:- 7857979735

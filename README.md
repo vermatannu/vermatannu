@@ -17,9 +17,6 @@ My name is Tannu Verma, and I am a passionate Full Stack Developer with 1.3+ yea
 🐙 GitHub:
  👉https://github.com/vermatannu
 
-I am available for immediate joining and enthusiastic about the opportunity to contribute to your team.
-Looking forward to the possibility of working together.  
 
-Regards, 
-Tannu Verma
-M:- 7857979735
+
+

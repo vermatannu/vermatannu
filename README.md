@@ -1,5 +1,5 @@
 
-My name is Tannu Verma, and I am a passionate Full Stack Developer with 1.3+ years of experience building scalable, production-ready systems using JavaScript and its ecosystem.
+My name is Tannu Verma, and I am a passionate Full Stack Developer with 2+ years of experience building scalable, production-ready systems using JavaScript and its ecosystem.
 
 
 
